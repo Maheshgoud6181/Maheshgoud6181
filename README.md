@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maheshgoud6181
+- 👋 Hi, I’m Mahesh Goud
 - 👀 I’m interested in :)
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Web development
