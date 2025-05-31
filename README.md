@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahesh Goud
-- 👀 I’m interested in :)
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Express JS
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me G-mail
 - 😄 Pronouns: ...
