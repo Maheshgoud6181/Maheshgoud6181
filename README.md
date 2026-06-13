@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahesh Goud
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Express JS
-- 💞️ I’m looking to collaborate on Web development
+- 🌱 I’m currently learning Agentic Ai
+- 💞️ I’m looking to collaborate on Web development, App Development ,Building AI Agents
 - 📫 How to reach me G-mail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
